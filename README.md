@@ -1,6 +1,9 @@
-# Bem-vindo ao meu perfil!
-![Cat GIF](https://github.com/LeandroFLourenco/README.md/blob/main/cat.gif?raw=true)
+<h1>Bem-vindo ao meu perfil! 👋</h1>
 
-MEU NOME É LEANDRO, GOSTO DE CODIGOS, C#, SQL =)
+<p>Meu nome é <strong>Leandro</strong>, e sou apaixonado por códigos, especialmente <code>C#</code> e <code>SQL</code>! 🚀</p>
 
-![Pac GIF](https://github.com/LeandroFLourenco/README.md/blob/main/pacman.gif?raw=true)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/gif1.gif" width="120">
+    <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/gif2.gif" width="200">
+    <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/gif3.gif" width="300">
+</div>
